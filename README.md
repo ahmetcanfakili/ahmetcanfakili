@@ -20,9 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmetcanfakili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet can fakili" height="30" width="40" /></a>
-<a href="https://instagram.com/tlhksy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tlhksy3" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDc0WPgvJkfThIAu4VcPDtQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="alhazen tr" height="30" width="40" /></a>
-<a href="https://discord.gg/AlhazenTR#3878" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="AlhazenTR#3878" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmetcanfkl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmetcanfkl" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
