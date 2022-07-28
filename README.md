@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- 👨‍🎓 I am a student developer studying in 42Istanbul. **[42Istanbul is...](https://www.42istanbul.com.tr/en/)**  
+ 👨‍🎓 I am a student developer studying in **[42Istanbul](https://www.42istanbul.com.tr/en/)**  
 
 <a href="https://www.linkedin.com/in/ahmetcanfakili/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
