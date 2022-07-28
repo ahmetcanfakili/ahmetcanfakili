@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Can Fakili</h1>
 
- 👨‍🎓 I am a student developer studying in **[42Istanbul](https://www.42istanbul.com.tr/en/)**  
+### 👨‍🎓 I am a student developer studying in **[42Istanbul](https://www.42istanbul.com.tr/en/)**  
 
 ![alt text](https://github.com/ahmetcanfakili/ahmetcanfakili/blob/main/hacking.gif?raw=true)
 
