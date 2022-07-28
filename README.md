@@ -20,4 +20,4 @@
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanfakili&theme=city_lights)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcanfakili&theme=city_lights" alt="ahmetcanfakili" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmetcanfakili&theme=github-dark-blue" alt="ahmetcanfakili" /></p>
