@@ -2,10 +2,6 @@
 
  👨‍🎓 I am a student developer studying in **[42Istanbul](https://www.42istanbul.com.tr/en/)**  
 
-<a href="https://www.linkedin.com/in/ahmetcanfakili/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 ![alt text](https://github.com/ahmetcanfakili/ahmetcanfakili/blob/main/hacking.gif?raw=true)
 
 ### 📈 My Github status:
@@ -14,8 +10,6 @@
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetcanfakili&layout=compact)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetcanfakili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcanfakili" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmetcanfakili" alt="ahmetcanfakili" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
