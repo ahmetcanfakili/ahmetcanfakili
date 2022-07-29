@@ -6,6 +6,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetcanfakili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcanfakili" /> </p>
 
+[![afakili's 42 stats](https://badge42.vercel.app/api/v2/cl66pznys013509l64vc92gli/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmetcanfakili/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmet can fakili" height="30" width="40" /></a>
