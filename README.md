@@ -6,6 +6,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetcanfakili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcanfakili" /> </p>
 
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
+
 [![afakili's 42 stats](https://badge42.vercel.app/api/v2/cl66pznys013509l64vc92gli/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
 
 <h3 align="left">Connect with me:</h3>
