@@ -12,7 +12,7 @@
   </a>
 </p>
 
-[![afakili's 42 stats](https://badge42.vercel.app/api/v2/cl66pznys013509l64vc92gli/stats?cursusId=21&coalitionId=229)](https://github.com/JaeSeoKim/badge42)
+[![afakili's 42 stats](https://badge42.vercel.app/api/v2/cl66pznys013509l64vc92gli/stats?cursusId=21&coalitionId=229)](https://github.com/ahmetcanfakili)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
