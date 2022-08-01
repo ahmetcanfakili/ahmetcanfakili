@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetcanfakili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcanfakili" /> </p>
 
 <p align="center">
-  <a href="https://github.com/madebypixel02">
+  <a href="https://github.com/ahmetcanfakili">
     <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
   </a>
 </p>
