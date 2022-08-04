@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 I am a student developer studying in **[42Istanbul](https://www.42istanbul.com.tr/en/)**  
 
-![alt text](https://github.com/ahmetcanfakili/ahmetcanfakili/blob/main/github.gif?raw=true)
+![alt text](https://github.com/ahmetcanfakili/ahmetcanfakili/blob/main/hacking.gif?raw=true)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmetcanfakili&label=Profile%20views&color=0e75b6&style=flat" alt="ahmetcanfakili" /> </p>
 
